@@ -10,8 +10,8 @@
 
 <br>
 <p align="left">
-    <a href="https://github.com/the1Riddle" target="_blank"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=the-1Riddle&show_icons=true&bg_color=00000000&hide_border=true&hide_title=true&alt="GitHub statistics"></a>
-    <a href="https://github.com/the1Riddle" target="_blank" target="_blank"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-1Riddle&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
+    <a href="https://github.com/the1Riddle" target="_blank"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=rezzcode&show_icons=true&bg_color=00000000&hide_border=true&hide_title=true&alt="GitHub statistics"></a>
+    <a href="https://github.com/the1Riddle" target="_blank" target="_blank"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezzcode&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
 </p>
 
 ### ✍️ Random Dev Joke.
@@ -23,7 +23,7 @@
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=the-1Riddle&label=Profile%20Views&color=9&pretty=true)](https://github.com/the1Riddle) [![Ko-fi](https://img.shields.io/badge/Tea-coffee-red?logo=ko-fi)](https://ko-fi.com/the1riddle)
+[![](https://visitcount.itsvg.in/api?id=rezzcode&label=Profile%20Views&color=9&pretty=true)](https://github.com/the1Riddle) [![Ko-fi](https://img.shields.io/badge/Tea-coffee-red?logo=ko-fi)](https://ko-fi.com/the1riddle)
 
 
 <!---
