@@ -10,7 +10,7 @@
 
 <br>
 <p align="left">
-    <a href="https://github.com/the1Riddle" target="_blank"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=rezzcode&show_icons=true&bg_color=00000000&hide_border=true&hide_title=true&alt="GitHub statistics"></a>
+    <a href="https://github.com/the1Riddle" target="_blank"><img height="145em" src="https://get-readme-stats.vercel.app/api?username=rezzcode&show_icons=true&bg_color=00000000&hide_border=true&hide_title=true&alt="GitHub statistics"></a>
     <a href="https://github.com/the1Riddle" target="_blank" target="_blank"><img height="145em" src="https://get-readme-stats.vercel.app/api/top-langs/?username=rezzcode&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
 </p>
 
