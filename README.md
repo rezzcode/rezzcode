@@ -1,4 +1,6 @@
+## About
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A20&width=568&lines=Hello!+what's+popin?;Glad+you+passed+by.;Have+fun+navigating+through+my+ewesome+projects;You+are+wellcome.)](https://github.com/the1Riddle)
 ## <b> Tech Stack:  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
 <p align="left">
   <a herf="https://github.com/the1Riddle">
