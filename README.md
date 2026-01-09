@@ -26,8 +26,7 @@
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=rezzcode&label=Profile%20Views&color=9&pretty=true)](https://github.com/the1Riddle) [![Ko-fi](https://img.shields.io/badge/Tea-coffee-red?logo=ko-fi)](https://ko-fi.com/the1riddle)
-
+[![](https://visitcountpro.netlify.app/api?id=VishwaGauravIn&label=Visits&color=8&icon=2&pretty=true)](https://github.com/the1Riddle) [![Ko-fi](https://img.shields.io/badge/Tea-coffee-red?logo=ko-fi)](https://ko-fi.com/the1riddle)
 
 <!---
 
