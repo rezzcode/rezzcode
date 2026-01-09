@@ -1,7 +1,8 @@
 ## About
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A20&width=568&lines=Hello!+what's+popin?;Glad+you+passed+by.;Have+fun+navigating+through+my+ewesome+projects;You+are+wellcome.)](https://github.com/the1Riddle)
-## <b> Tech Stack:  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
+
+## <b> Tech Stack:  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height ="25">
 <p align="left">
   <a herf="https://github.com/the1Riddle">
     <img src="https://skillicons.dev/icons?i=c,py,cs,cmake,github,git,visualstudio,vim,mysql,bash,linux,dotnet,docker&perline=13" />
@@ -16,7 +17,7 @@
     <a href="https://github.com/the1Riddle" target="_blank" target="_blank"><img height="145em" src="https://get-readme-stats.vercel.app/api/top-langs/?username=rezzcode&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
 </p>
 
-### ✍️ Random Dev Joke.
+## ✍️ Random Dev Joke.
 
 
   &nbsp; &nbsp; &nbsp; &nbsp; A SQL query goes into a bar, walks up to two tables, and asks...
